@@ -1,4 +1,4 @@
-/////56
+///
 
 let qu = document.querySelectorAll(".lab")
 
