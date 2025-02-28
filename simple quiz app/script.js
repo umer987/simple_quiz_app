@@ -1,4 +1,4 @@
-      
+uyyg      
 
 let qu = document.querySelectorAll(".lab")
 
