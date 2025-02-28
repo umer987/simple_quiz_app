@@ -1,4 +1,4 @@
-
+/////56890
 
 let qu = document.querySelectorAll(".lab")
 
