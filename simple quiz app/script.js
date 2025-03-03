@@ -1,5 +1,5 @@
 
-
+////kjkjkkjkjkjkj
 let qu = document.querySelectorAll(".lab")
 
 
